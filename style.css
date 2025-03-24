@@ -24,7 +24,7 @@ body {
     width: 80%;
     max-width: 500px;
     height: auto;
-    border: 5px solid #501920;
+    border: 5px solid #0f0f0f;
     margin: 20px auto;
     display: block;
     }
@@ -70,12 +70,12 @@ body {
         }
         
         #diminuir-fonte {
-        background-color: #FF8C00;
+        background-color: #802727;
         color: white;
         }
         
         #diminuir-fonte:hover {
-        background-color: #E07B00;
+        background-color: #1e3880;
         }
         
         :focus {
